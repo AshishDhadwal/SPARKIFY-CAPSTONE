@@ -27,3 +27,10 @@ Sparkify is a music app, this dataset contains two months of sparkify user behav
 
 # Files Description
 Sprakify .ipynb Main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
+Result
+According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
+
+I post a blog about the detail, you can find it here.
+
+Licensing, Authors, Acknowledgements
+Must give credit to Udacity for the project. You can't use this for you Udacity capstone project. Otherwise, feel free to use the code here as you would like!
