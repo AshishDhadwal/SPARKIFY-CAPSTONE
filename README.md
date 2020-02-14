@@ -30,7 +30,7 @@ Sprakify .ipynb Main file of the project, it demonstrates the process of using p
 # Result
 According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
-I post a blog about the detail, you can find it here.
+I post a blog about the detail, you can find it here https://medium.com/@adhadwal3/the-churn-using-pyspark-57047f431ba7.
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Udacity for the project. You can't use this for you Udacity capstone project. Otherwise, feel free to use the code here as you would like!
